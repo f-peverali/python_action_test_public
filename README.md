@@ -1,3 +1,4 @@
 # Python Github Action
 
-Returns square of the number passed via action
+Returns square of the number passed via action.
+Test add
